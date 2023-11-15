@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NomsResultRecyclerView</string>
+    <string name="addValue">+</string>
+    <string name="next">Següent</string>
+    <string name="nom">Nom</string>
+    <string name="edat">Edat</string>
+</resources>
